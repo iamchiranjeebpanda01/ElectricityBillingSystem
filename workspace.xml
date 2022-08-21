@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fb0ce56-95a5-4be4-9b8c-df03ea13c227" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DJQD4FPhQUnEJo7ZX87SbHYypg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Electricity" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\ElectricityBillingSystem\src\Electricity" />
+      <recent name="D:\Java\ElectricityBillingSystem\src\icon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="About" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Electricity.About" />
+      <module name="ElectricityBillingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electricity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateBill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Electricity.GenerateBill" />
+      <module name="ElectricityBillingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electricity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Electricity.Login" />
+      <module name="ElectricityBillingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electricity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayBill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Electricity.PayBill" />
+      <module name="ElectricityBillingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electricity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Paytm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Electricity.Paytm" />
+      <module name="ElectricityBillingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Electricity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.About" />
+        <item itemvalue="Application.Paytm" />
+        <item itemvalue="Application.PayBill" />
+        <item itemvalue="Application.GenerateBill" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fb0ce56-95a5-4be4-9b8c-df03ea13c227" name="Default Changelist" comment="" />
+      <created>1660414584132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660414584132</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1660815004662">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1660815004662" />
+    <state x="564" y="302" key="DetectedRootsChooserDialog" timestamp="1660414957684">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="564" y="302" key="DetectedRootsChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1660414957684" />
+    <state x="473" y="158" key="FileChooserDialogImpl" timestamp="1660414949399">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="473" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1660414949399" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1660895724219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1660895724219" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1660895724219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1660895724219" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1660895724219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1660895724219" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1660895724219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1660895724219" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1660489029980">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1660489029980" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1660489029980">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1660489029980" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1660489029980">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1660489029980" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1660489029980">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1660489029980" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1660414964568">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1660414964568" />
+  </component>
+</project>
